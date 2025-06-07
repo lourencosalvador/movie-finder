@@ -61,7 +61,7 @@ export default function RootLayout({
           <div className="absolute inset-0 bg-gradient-to-br from-purple-50/50 via-blue-50/30 to-indigo-100/50 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900" />
         </div>
         
-        <div className="absolute inset-0 opacity-30 bg-gradient-to-br from-purple-600/20 via-blue-600/20 to-indigo-600/20"></div>
+        <div className="absolute inset-0 opacity-30 bg-gradient-to-br from-purple-600/20 via-blue-600/20 to-indigo-600/20 pointer-events-none -z-10"></div>
       </body>
     </html>
   );
