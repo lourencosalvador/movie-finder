@@ -196,18 +196,10 @@ npm run lint     # Executa linting do código
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 📞 Contato
-
-- **GitHub**: [@seu-usuario](https://github.com/seu-usuario)
-- **Email**: seu-email@exemplo.com
-- **LinkedIn**: [Seu Nome](https://linkedin.com/in/seu-nome)
-
 ---
 
 <div align="center">
 
 **🎬 Feito com ❤️ e muito ☕**
-
-[⭐ Star o projeto](https://github.com/seu-usuario/moviefinder) | [🐛 Reportar Bug](https://github.com/seu-usuario/moviefinder/issues) | [💡 Solicitar Feature](https://github.com/seu-usuario/moviefinder/issues)
 
 </div>
